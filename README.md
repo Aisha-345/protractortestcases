@@ -1,2 +1,2 @@
-# protractortestcases
-this is a project for testing a local e-commerce website using protractor framework
+# Testing-Project
+ Testing of angular.js website using protractor tool and wappalyzer as extensions from google play store
